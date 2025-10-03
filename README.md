@@ -7,8 +7,8 @@ Want to see some of our samples? Check out our [GitHub pages](https://mikceroese
 # Files
 
 Our work includes the following files:
- - **A notebook for training our baseline**, which is a custom version of the **MuseGAN** model, built with PyTorch.
-   `MuseGAN_DBG_chroma.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mikceroese/GPianoroll/blob/1ab74a52e59d844751b2a68ec026f3ab4e1aba22/MuseGAN_DBG_chroma.ipynb)
+ - **A notebook for training our baseline**, **PowGAN**, which is a custom version of the MuseGAN model, built with PyTorch.
+   `PowGAN_train.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mikceroese/ROMBO/PowGAN_train.ipynb)
    The notebook is completely runnable in Colab, and we optimized RAM and GPU usage for fully online reproducibility!
  - **A pretrained version** of the baseline, result of running the notebook.
  - **Code for running experiments**, which includes the description of the model, a GUI, and auxiliary code for loading the model and running the experiments. 
